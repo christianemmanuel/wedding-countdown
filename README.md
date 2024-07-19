@@ -4,9 +4,9 @@ Elemnta Frontend Assessment | Christian Emmanuel Concepcion
 
 ## Technologies used
 
-Plain Javascript, SCSS, Jasmine Framework, Vercel 
+Plain Javascript, SCSS, Jasmine Framework
 
-## deployment platforms
+## Deployment platforms
 
 Vercel
 
